@@ -1,4 +1,6 @@
-<div align="center">
+<p align="center">
+  <img src="banner.png" alt="Sudhanshu Sharma Banner">
+</p>
 
 # Hi 👋, I'm Sudhanshu Sharma
 
