@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="78e5f604-d8fb-40ef-bb16-ba72cd62ed2f.png" alt="Sudhanshu Sharma Banner">
+  <img src="banner.jpg" alt="Sudhanshu Sharma Banner">
 </p>
 
 # Hi 👋, I'm Sudhanshu Sharma
